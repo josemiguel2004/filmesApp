@@ -1,0 +1,26 @@
+ion-item{
+  ion-thumbnail{
+    height: 100%;
+    margin-inline-end: 10px;
+  }
+
+  h1{
+    font-weight: bold;
+    font-size: 0.8rem;
+  }
+
+  ion-chip{
+    padding-inline: 10px;
+  }
+}
+
+ion-label{
+  p{
+    font-size: 0.7rem;
+  }
+
+  ion-badge{
+    padding: 2px;
+    margin: 2px;
+  }
+}
